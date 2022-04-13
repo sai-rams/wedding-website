@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://images.shaadisaga.com/shaadisaga_production/photos/pictures/001/251/860/new_medium/1_0XCxDPbjgHfPkEo_ISwXbg.jpeg?1574946546');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</head>
+<body>
+<p> v </p>
+</body>
+</html>
+
+<html>
+<head>
+<title>varshini</title>
+</head>
+<h1 style="color:blue"align=center>Varshini Vs Gowtham wedding</h1>
+<center>
+<video controls width="420" height="240" >
+<source src="marriage varshini.mp4" type="video/mp4">
+</center>
+</video>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+} 
+</style>
+</head>
+<body>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.a {
+  text-align: center;
+  color: green;
+}
+
+div.b {
+  text-align: left;
+  color: green;
+}
+
+div.c {
+  text-align: right;
+  color: red;
+} 
+
+div.d {
+  text-align: justify;
+  color: green;
+} 
+</style>
+</head>
+<body>
+<div class="a">
+
+<h2> HEY BUDDIES WELCOME TO ALL</h2>
+</div>
+
+<div class="b">
+
+<h2><br> VENUE:SPVEBY FUNCTION HALL</br>
+         DATE: 24.04.2022</h2>
+</div>
+
+<div class="c">
+<a href="file:///C:/Users/HI/Desktop/img.html"> INVITATION HERE </a>
+
+
+</div>
+
+
+
+</body>
+</html>
+
+
+
+ 
